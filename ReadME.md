@@ -1,5 +1,8 @@
 # To-do List API: A FastAPI CRUD App
 
+## CREATE, READ, UPDATE and DELETE
+
+
 ## Useful commands
 
 * `npm run build`   compile typescript to js
