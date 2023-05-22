@@ -2,7 +2,6 @@
 
 ## CREATE, READ, UPDATE and DELETE
 
-
 ## Useful commands
 
 * `npm run build`   compile typescript to js
@@ -14,18 +13,25 @@
 
 ### Requirements to install 
 
-Backend:
-`Install aws cli`
-`aws cdk`
-`cdk init --language typescript`
-`cdk synth`
-`cdk deploy --app /path`
-In api `./package_for_lambda.sh`
+#### Backend:
+* `Install aws cli`
+* `aws cdk`
+* `cdk init --language typescript`
+* `cdk synth`
+* `cdk deploy --app /path`
+* In api `./package_for_lambda.`
 
-frontend:
-`npm i react`
-`npm install next`
-`npm install uuid`
-`npm install typescript`
-`npm install --save-dev typescript`
-`npm run dev`
+#### Frontend:
+* `npm i react`
+* `npm install next`
+* `npm install uuid`
+* `npm install typescript`
+* `npm install --save-dev typescript`
+* `npm run dev`
+
+#### GIT cmds:
+* `git commit`
+* `git branch --unset-upstream`
+* `git status`
+* `git log`
+* `git merge`
